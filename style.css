@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(255, 218, 148);
+}
+
+.jumbotron h1 {
+  font-weight: 400;
+}
+
+.jumbotron p {
+  font-weight: 300;
+}
+
+.section {
+  padding-top: 7rem;
+}
